@@ -31,7 +31,7 @@ class my_drawer extends StatelessWidget {
           ListTile(
             title: Text('About Me'),
             onTap: onTap_about,
-            leading: Icon(Icons.account_circle_rounded),
+            leading: Icon(Icons.phone),
           )
         ],
       ),
