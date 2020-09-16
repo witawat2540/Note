@@ -31,6 +31,7 @@ dependencies:
   flutter_slidable:
   http: ^0.12.2
   flutter_launcher_icons: ^0.8.0
+  shared_preferences: ^0.5.10
 
 dev_dependencies:
   flutter_test:
